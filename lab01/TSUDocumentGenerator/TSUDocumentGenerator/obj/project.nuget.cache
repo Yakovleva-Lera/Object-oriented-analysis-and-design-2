@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rKr5bKETPtw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\UniversityReports.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lerse\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}
