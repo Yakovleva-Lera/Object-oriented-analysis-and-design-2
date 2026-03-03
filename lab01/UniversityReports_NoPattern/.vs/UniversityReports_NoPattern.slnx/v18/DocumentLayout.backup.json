@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|c:\\users\\lerse\\source\\repos\\universityreports_nopattern\\universityreports_nopattern\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|solutionrelative:universityreports_nopattern\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|c:\\users\\lerse\\source\\repos\\universityreports_nopattern\\universityreports_nopattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|solutionrelative:universityreports_nopattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|c:\\users\\lerse\\source\\repos\\universityreports_nopattern\\universityreports_nopattern\\models\\documenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|solutionrelative:universityreports_nopattern\\models\\documenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|c:\\users\\lerse\\source\\repos\\universityreports_nopattern\\universityreports_nopattern\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|solutionrelative:universityreports_nopattern\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|c:\\users\\lerse\\source\\repos\\universityreports_nopattern\\universityreports_nopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9B8ED2-E850-1B19-8FF2-93B1B31D6857}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|solutionrelative:universityreports_nopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C869ED-3354-4B92-9AE7-39169E1B5C66}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\universityreports_nopattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C869ED-3354-4B92-9AE7-39169E1B5C66}|UniversityReports_NoPattern\\UniversityReports_NoPattern.csproj|solutionrelative:universityreports_nopattern\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 271,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 58,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "UniversityReports_NoPattern\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Form1.Designer.cs",
+              "RelativeToolTip": "UniversityReports_NoPattern\\Form1.Designer.cs",
+              "ViewState": "AgIAALQBAAAAAAAAAAAcwM0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:27:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Form1.cs",
+              "RelativeDocumentMoniker": "UniversityReports_NoPattern\\Form1.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Form1.cs",
+              "RelativeToolTip": "UniversityReports_NoPattern\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:26:05.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityReports_NoPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Program.cs",
+              "RelativeToolTip": "UniversityReports_NoPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:26:34.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "UniversityReports_NoPattern\\Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Models\\UserData.cs",
+              "RelativeToolTip": "UniversityReports_NoPattern\\Models\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:25:36.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Models\\DocumentTemplate.cs",
+              "RelativeDocumentMoniker": "UniversityReports_NoPattern\\Models\\DocumentTemplate.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Models\\DocumentTemplate.cs",
+              "RelativeToolTip": "UniversityReports_NoPattern\\Models\\DocumentTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:18:35.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Form1.cs",
+              "RelativeDocumentMoniker": "UniversityReports_NoPattern\\Form1.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\UniversityReports_NoPattern\\UniversityReports_NoPattern\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UniversityReports_NoPattern\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:17:10.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

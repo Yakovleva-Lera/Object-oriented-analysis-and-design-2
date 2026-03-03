@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace UniversityReports.Models
+﻿namespace UniversityReports.Models
 {
     public class UserData
     {
@@ -18,15 +16,35 @@ namespace UniversityReports.Models
         public string SupervisorName { get; set; } = "Литовченко М.И.";
         public string SupervisorDegree { get; set; } = "к.т.н., доцент";
 
-        // Руководитель от организации (для практики)
+        // Руководитель от организации
         public string OrgSupervisorName { get; set; } = "Салимзянов Р.Р.";
         public string OrgSupervisorInfo { get; set; } = "к.т.н., доцент";
 
-        // Специфичные данные для разных типов работ
+        // Специфичные данные
         public string PracticeView { get; set; } = "Суперская";
         public string PracticeType { get; set; } = "Крутецкая";
         public string DisciplineName { get; set; } = "Объектно-ориентированный анализ и проектирование";
         public string LabWorkName { get; set; } = "ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ";
         public string TopicName { get; set; } = "Разработка приложения на C#";
+
+        // Метод копирования для глубокого клонирования строк
+        public UserData Copy() => new UserData
+        {
+            StudentName = StudentName,
+            GroupNumber = GroupNumber,
+            Department = Department,
+            DirectionCode = DirectionCode,
+            DirectionName = DirectionName,
+            Profile = Profile,
+            SupervisorName = SupervisorName,
+            SupervisorDegree = SupervisorDegree,
+            OrgSupervisorName = OrgSupervisorName,
+            OrgSupervisorInfo = OrgSupervisorInfo,
+            PracticeView = PracticeView,
+            PracticeType = PracticeType,
+            DisciplineName = DisciplineName,
+            LabWorkName = LabWorkName,
+            TopicName = TopicName
+        };
     }
 }

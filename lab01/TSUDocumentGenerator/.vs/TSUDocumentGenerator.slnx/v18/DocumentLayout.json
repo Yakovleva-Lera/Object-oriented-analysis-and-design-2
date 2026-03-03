@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|solutionrelative:tsudocumentgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\models\\documentregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|solutionrelative:tsudocumentgenerator\\models\\documentregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|solutionrelative:tsudocumentgenerator\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\models\\documenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|solutionrelative:tsudocumentgenerator\\models\\documenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\models\\idocumentprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|solutionrelative:tsudocumentgenerator\\models\\idocumentprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|solutionrelative:tsudocumentgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|solutionrelative:tsudocumentgenerator\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|solutionrelative:tsudocumentgenerator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\models\\idocumentprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|solutionrelative:tsudocumentgenerator\\models\\idocumentprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8DCF073-F4BD-53E8-BD69-ED6F90EFC849}|TSUDocumentGenerator\\UniversityReports.csproj|c:\\users\\lerse\\source\\repos\\tsudocumentgenerator\\tsudocumentgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,23 +52,93 @@
         },
         {
           "DockedHeight": 58,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "TSUDocumentGenerator\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Form1.Designer.cs",
               "RelativeToolTip": "TSUDocumentGenerator\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0BAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAcwM0BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T08:36:25.589Z"
+              "WhenOpened": "2026-02-28T08:36:25.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Form1.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Form1.cs",
+              "RelativeToolTip": "TSUDocumentGenerator\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAPgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:33:38.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\DocumentTemplate.cs",
+              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Models\\DocumentTemplate.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\DocumentTemplate.cs",
+              "RelativeToolTip": "TSUDocumentGenerator\\Models\\DocumentTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:16:30.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\UserData.cs",
+              "RelativeToolTip": "TSUDocumentGenerator\\Models\\UserData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:32:09.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\DocumentRegistry.cs",
+              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Models\\DocumentRegistry.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\DocumentRegistry.cs",
+              "RelativeToolTip": "TSUDocumentGenerator\\Models\\DocumentRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:33:05.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDocumentPrototype.cs",
+              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\IDocumentPrototype.cs",
+              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Models\\IDocumentPrototype.cs",
+              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\IDocumentPrototype.cs",
+              "RelativeToolTip": "TSUDocumentGenerator\\Models\\IDocumentPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:15:57.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,76 +150,8 @@
               "RelativeToolTip": "TSUDocumentGenerator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T08:41:21.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Form1.cs",
-              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Form1.cs",
-              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Form1.cs",
-              "RelativeToolTip": "TSUDocumentGenerator\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T08:33:38.439Z",
+              "WhenOpened": "2026-02-28T08:41:21.624Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DocumentRegistry.cs",
-              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\DocumentRegistry.cs",
-              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Models\\DocumentRegistry.cs",
-              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\DocumentRegistry.cs",
-              "RelativeToolTip": "TSUDocumentGenerator\\Models\\DocumentRegistry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T08:33:05.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserData.cs",
-              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\UserData.cs",
-              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Models\\UserData.cs",
-              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\UserData.cs",
-              "RelativeToolTip": "TSUDocumentGenerator\\Models\\UserData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T08:32:09.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DocumentTemplate.cs",
-              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\DocumentTemplate.cs",
-              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Models\\DocumentTemplate.cs",
-              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\DocumentTemplate.cs",
-              "RelativeToolTip": "TSUDocumentGenerator\\Models\\DocumentTemplate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T08:16:30.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDocumentPrototype.cs",
-              "DocumentMoniker": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\IDocumentPrototype.cs",
-              "RelativeDocumentMoniker": "TSUDocumentGenerator\\Models\\IDocumentPrototype.cs",
-              "ToolTip": "C:\\Users\\lerse\\source\\repos\\TSUDocumentGenerator\\TSUDocumentGenerator\\Models\\IDocumentPrototype.cs",
-              "RelativeToolTip": "TSUDocumentGenerator\\Models\\IDocumentPrototype.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T08:15:57.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
