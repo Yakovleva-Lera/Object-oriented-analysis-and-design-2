@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BeveragesApp/BeveragesApp.vcxproj" Id="e0a5ab69-fd01-46f9-8214-dc449b48bcaf" />
+</Solution>
