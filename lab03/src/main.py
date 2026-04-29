@@ -57,10 +57,8 @@ class EmptyState(CellState):
 class TreeState(CellState):
     def __init__(self, age=0):
         self.age = age
-        # self.context будет установлен через set_context() из CellState
 
     def get_color(self): 
-        # Безопасная проверка: контекст может ещё не быть установлен
         if hasattr(self, 'context') and self.context and self.age > self.context.cfg.get('old_age_threshold', 20):
             return '#006400' 
         return '#32cd32'
