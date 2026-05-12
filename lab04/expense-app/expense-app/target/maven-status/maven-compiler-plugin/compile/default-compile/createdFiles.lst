@@ -1,0 +1,5 @@
+com\expensetracker\model\Expense.class
+com\expensetracker\MainApp.class
+com\expensetracker\gateway\ExpenseGateway.class
+com\expensetracker\gateway\SQLiteExpenseGateway.class
+com\expensetracker\controller\ExpenseController.class
