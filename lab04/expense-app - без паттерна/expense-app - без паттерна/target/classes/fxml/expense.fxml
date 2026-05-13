@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="12" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.expensetracker.controller.ExpenseController"
+      style="-fx-padding: 15; -fx-background-color: #f8f9fa;">
+
+    <!-- Панель ввода -->
+    <Label text="Добавить расход" style="-fx-font-size: 18px; -fx-font-weight: bold;"/>
+    <HBox spacing="10" alignment="CENTER_LEFT">
+        <TextField fx:id="txtAmount" promptText="Сумма" prefWidth="90"/>
+        <ComboBox fx:id="comboCategory" prefWidth="130"/>
+        <DatePicker fx:id="datePicker" prefWidth="130"/>
+        <TextField fx:id="txtComment" promptText="Комментарий" HBox.hgrow="ALWAYS"/>
+        <Button fx:id="btnAdd" text="Добавить" onAction="#handleAdd" 
+                style="-fx-background-color: #4CAF50; -fx-text-fill: white;"/>
+    </HBox>
+
+    <!-- Панель сортировки -->
+    <HBox spacing="10" alignment="CENTER_LEFT" style="-fx-padding: 5 0;">
+        <Label text="Сортировка:" style="-fx-font-weight: bold;"/>
+        <ComboBox fx:id="comboSort" prefWidth="150" onAction="#handleSort"/>
+    </HBox>
+
+    <!-- Таблица -->
+    <TableView fx:id="expenseTable" VBox.vgrow="ALWAYS">
+        <columns>
+            <TableColumn fx:id="colId" text="ID" prefWidth="50"/>
+            <TableColumn fx:id="colAmount" text="Сумма" prefWidth="100"/>
+            <TableColumn fx:id="colCategory" text="Категория" prefWidth="120"/>
+            <TableColumn fx:id="colDate" text="Дата" prefWidth="110"/>
+            <TableColumn fx:id="colComment" text="Комментарий" prefWidth="200"/>
+        </columns>
+    </TableView>
+
+        <!-- Панель статистики -->
+    <VBox spacing="5" style="-fx-background-color: #e9ecef; -fx-padding: 10; -fx-border-radius: 5;">
+        <HBox spacing="10" alignment="CENTER_LEFT">
+            <Label text="Итого:" style="-fx-font-weight: bold;"/>
+            <Label fx:id="lblTotal" text="0.00 руб" style="-fx-font-size: 16px; -fx-text-fill: #d32f2f; -fx-font-weight: bold;"/>
+        </HBox>
+        <HBox spacing="10" alignment="CENTER_LEFT">
+            <Label text="С:" style="-fx-font-weight: bold;"/>
+            <DatePicker fx:id="dpStartDate" prefWidth="120"/>
+            <Label text="По:" style="-fx-font-weight: bold;"/>
+            <DatePicker fx:id="dpEndDate" prefWidth="120"/>
+            <Button text="Рассчитать" onAction="#calcPeriod"/>
+            <Button text="Сбросить БД (ID=1)" onAction="#handleReset" 
+                    style="-fx-background-color: #95a5a6; -fx-text-fill: white;"/>
+        </HBox>
+    </VBox>
+
+    <!-- Кнопки управления -->
+    <HBox spacing="10" alignment="CENTER_RIGHT">
+        <Button fx:id="btnFilter" text="Фильтр по категории" onAction="#handleFilter"/>
+        <Button fx:id="btnShowAll" text="Показать все" onAction="#handleShowAll"/>
+        <Button fx:id="btnDelete" text="Удалить выбранное" onAction="#handleDelete"
+                style="-fx-background-color: #e74c3c; -fx-text-fill: white;"/>
+    </HBox>
+</VBox>
